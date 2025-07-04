@@ -27,7 +27,8 @@ A simple auto-correlation based pitch detection algorithm developed in a python 
 
 
 ### Investigation on Even Harmonic Attenuation's Effect on Instrument Timbre Perception
-- Upload paper
+Developed a short study to investigate the effect of even harmonic attenuation on instrument timbre perception across different instrument classes. This study was conducted as the final project for the Stanfored MUSIC251 Psychophysics and Music Cognition class. \
+[Report](https://github.com/rwroblewsk/rwroblewsk.github.io/blob/main/timbre_study/Music251_FinalProjectReport.pdf)
 
 ### GrossDistort Chugin
 [Webpage](https://ccrma.stanford.edu/~rwroblew/220a/fp/index.html)
