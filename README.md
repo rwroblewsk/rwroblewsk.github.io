@@ -26,7 +26,7 @@ A simple auto-correlation based pitch detection algorithm developed in a python 
 [Jupyter Notebook](https://github.com/rwroblewsk/rwroblewsk.github.io/blob/main/pitch_detection/424%20Final%20Project.ipynb)
 
 
-### 251 Final Project
+### Investigation on Even Harmonic Attenuation's Effect on Instrument Timbre Perception
 - Upload paper
 
 ### GrossDistort Chugin
