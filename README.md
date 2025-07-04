@@ -10,6 +10,7 @@ A 4-delay line Feedback Delay Network implemented in C++. This project was origi
 [Github Page](https://github.com/lokibler/231N_final)
 
 ### Blob Console
+A funky mixing console visualizer created in ChuGL. \
 [Webpage](https://ccrma.stanford.edu/~rwroblew/256A/hw4/)
 
 ### 422 Final Project
