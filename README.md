@@ -7,7 +7,7 @@ A 4-delay line Feedback Delay Network implemented in C++. This project was origi
 [Code](https://github.com/rwroblewsk/rwroblewsk.github.io/tree/main/fdn) 
 
 ### Data Augmentations for Instrument Detection Using Convolutional Neural Networks
-A project investigating the efficacy of adding different audio data augmentation strategies to a convolutional neural network architecture for perfoming instrument detection. This project was developed as the final project for the Stanford CS231n Deep Learning for Computer Vision class by a team of three students. \
+A project investigating the efficacy of adding different audio data augmentation strategies to a convolutional neural network architecture for perfoming instrument detection. This investigation was developed as the final project for the Stanford CS231n Deep Learning for Computer Vision class by a team of three students. \
 [Report](https://github.com/lokibler/231N_final/blob/main/Report.pdf)\
 [Github Page](https://github.com/lokibler/231N_final)
 
