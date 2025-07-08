@@ -31,7 +31,7 @@ A funky mixing console visualizer created in ChuGL. \
 [Webpage](https://ccrma.stanford.edu/~rwroblew/256A/hw4/)
 
 ### Investigation on Even Harmonic Attenuation's Effect on Instrument Timbre Perception
-Developed a short study to investigate the effect of even harmonic attenuation on instrument timbre perception across different instrument classes. This study was conducted as the final project for the Stanfored MUSIC251 Psychophysics and Music Cognition class. \
+A short study investigating the effect of even harmonic attenuation on instrument timbre perception across different instrument classes. This study was conducted as the final project for the Stanfored MUSIC251 Psychophysics and Music Cognition class. \
 [Report](https://github.com/rwroblewsk/rwroblewsk.github.io/blob/main/timbre_study/Music251_FinalProjectReport.pdf)
 
 ### GrossDistort Chugin
