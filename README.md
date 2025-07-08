@@ -37,6 +37,9 @@ A short study investigating the effect of even harmonic attenuation on instrumen
 ### GrossDistort Chugin
 [Webpage](https://ccrma.stanford.edu/~rwroblew/220a/fp/index.html)
 
-### musStems Final Project
+### Drum Track Separation
+A source separation algorithm developed to separate out individual drum tracks (kick, snare, hihat) from a mixed drum track using non-negative matrix factorization (NMF). This project was created as the final project for the Harvey Mudd College ENGR207 Digital Signal Processing: Theory & Application class. Only a portion of the "mixes" audio data is provided due to Github storage constraints. \
+[Report](https://github.com/rwroblewsk/rwroblewsk.github.io/blob/main/drum_track_separation/Drum_Track_Separation_Report.pdf) \
+[Code + Audio Files](https://github.com/rwroblewsk/rwroblewsk.github.io/tree/main/drum_track_separation)
 
 ### MicroPs Final Project
