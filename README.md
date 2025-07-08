@@ -6,11 +6,13 @@
 A 4-delay line Feedback Delay Network implemented in C++. This project was originally implemented as the final lab project for the Stanford EE264 Digital Signal Processing class where it was integrated into a smartphone app. \
 [Code](https://github.com/rwroblewsk/rwroblewsk.github.io/tree/main/fdn) 
 
-### 231N Final Project
+### Data Augmentations for Instrument Detection Using Convolutional Neural Networks
+A project investigating the efficacy of adding different audio data augmentation strategies to a convolutional neural network architecture for perfoming instrument detection. This project was developed as the final project for the Stanford CS231n Deep Learning for Computer Vision class by a team of three students. 
+[Report](https://github.com/lokibler/231N_final/blob/main/Report.pdf)\
 [Github Page](https://github.com/lokibler/231N_final)
 
 ### Codec LB-75
-A perceptual audio codec with additional block-switching and variable bitrate capabilities. This codec was developed as the final project for the Stanford MUSIC422 Perceptual Audio Coding class. In this class, a baseline perceptual audio codec was developed progressively. The final project involved adding additional components to the baseline implementation. The LB-75 codec was developed to improve the quality of transients through the addition of block-switching and a variable bitrate. \
+A perceptual audio codec with additional block-switching and variable bitrate capabilities. This codec was developed as the final project for the Stanford MUSIC422 Perceptual Audio Coding class by a team of two students. In this class, a baseline perceptual audio codec was developed progressively. The final project involved adding additional components to the baseline implementation. The LB-75 codec was developed to improve the quality of transients through the addition of block-switching and a variable bitrate. \
 [Report](https://github.com/rwroblewsk/422_Final_Project/blob/main/422%20Final%20Project%20Report.pdf) \
 [Github Page](https://github.com/rwroblewsk/422_Final_Project) 
 
