@@ -27,7 +27,7 @@ A simple auto-correlation based pitch detection algorithm developed in a Python 
 [Jupyter Notebook](https://github.com/rwroblewsk/rwroblewsk.github.io/blob/main/pitch_detection/424%20Final%20Project.ipynb)
 
 ### Blob Console
-A funky mixing console visualizer created in ChuGL. \
+A funky mixing console visualizer created in ChuGL. This project was created as the final project for the Stanford MUSIC256A Music, Computing, and Design class. \
 [Webpage](https://ccrma.stanford.edu/~rwroblew/256A/hw4/)
 
 ### Investigation on Even Harmonic Attenuation's Effect on Instrument Timbre Perception
