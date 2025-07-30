@@ -9,8 +9,19 @@ A 4-delay line Feedback Delay Network implemented in C++. This project was origi
 ### Data Augmentations for Instrument Detection Using Convolutional Neural Networks
 A project investigating the efficacy of adding different audio data augmentation strategies to a convolutional neural network architecture for perfoming instrument detection. The project was done using PyTorch in a Python Jupyter Notebook. This investigation was developed as the final project for the Stanford CS231n Deep Learning for Computer Vision class by a team of three students.
 
+Abstract: In this paper, we propose a Convolutional neural network (CNN) classifier model that assesses audio clips and
+identifies the most prominent instrument present in the audio. In our architecture, we experimented with applying two
+different data augmentation types: spectrogram augmentations and audio effect augmentations. Finally, we discuss
+results from our model experimentation and analyze which
+augmentations performed best. From our results, while the
+model’s overall accuracy did not improve, our proposed
+augmentations evened out the misclassifications across all
+instrument classes.
+
 ### Codec LB-75
 A perceptual audio codec with additional block-switching and variable bitrate capabilities. This codec was developed as the final project for the Stanford MUSIC422 Perceptual Audio Coding class by a team of two students. In this class, a baseline perceptual audio codec was developed progressively. The final project involved adding additional components to the baseline implementation. The LB-75 codec was developed to improve the quality of transients through the addition of block-switching and a variable bitrate.
+
+Abstract: 
 
 ### Tenor Ukulele Construction and Pickup Processing
 Constructed a tenor ukulele with a piezo pickup. Filtered the piezo pickup output in a Python Jupyter Notebook to resemble a condenser microphone to improve sound quality. \
