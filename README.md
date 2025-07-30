@@ -19,9 +19,7 @@ augmentations evened out the misclassifications across all
 instrument classes.
 
 ### Codec LB-75
-A perceptual audio codec with additional block-switching and variable bitrate capabilities. This codec was developed as the final project for the Stanford MUSIC422 Perceptual Audio Coding class by a team of two students. In this class, a baseline perceptual audio codec was developed progressively. The final project involved adding additional components to the baseline implementation. The LB-75 codec was developed to improve the quality of transients through the addition of block-switching and a variable bitrate.
-
-Abstract: 
+A perceptual audio codec with additional block-switching and variable bitrate capabilities. This codec was developed as the final project for the Stanford MUSIC422 Perceptual Audio Coding class by a team of two students. In this class, a baseline perceptual audio codec was developed progressively. The final project involved adding additional components to the baseline implementation. The LB-75 codec was developed to improve the quality of transients through the addition of block-switching (using the High Frequency Energy approach for transient detection) and a variable bitrate.
 
 ### Tenor Ukulele Construction and Pickup Processing
 Constructed a tenor ukulele with a piezo pickup. Filtered the piezo pickup output in a Python Jupyter Notebook to resemble a condenser microphone to improve sound quality. \
