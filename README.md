@@ -1,6 +1,6 @@
 # Portfolio
 
-## Public Projects
+## Projects
 
 ### Feedback Delay Network
 A 4-delay line Feedback Delay Network implemented in C++. This project was originally implemented as the final lab project for the Stanford EE264 Digital Signal Processing class where it was integrated into a smartphone app. \
